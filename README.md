@@ -1,4 +1,4 @@
-# Coffee Vending Machine
+# Coffee Vending Machine ☕
 Basic coffee vending machine made with Python 3. 
 This simple proyect cover topics such as:
 1. Loops
